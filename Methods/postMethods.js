@@ -7,7 +7,5 @@ postMethods.addCourse = async (req, res) => {
     res.send(result);
 }
 
-pos
-
 
 module.exports = postMethods;
